@@ -1,0 +1,279 @@
+{
+  "brand": {
+    "name": "SkynetLabs Roofing Demo",
+    "tagline": "Architecture-grade roofing for North Texas homes"
+  },
+  "niche": "roofing",
+  "niche_label": "Roofing",
+  "location": {
+    "city": "Dallas",
+    "region": "TX",
+    "country": "US"
+  },
+  "owner": {
+    "name": "Waseem Nasir",
+    "agency": "SkynetLabs",
+    "fiverr_url": "https://www.fiverr.com/agencies/skynetjoellc",
+    "hub_url": "https://skynetjoe.com",
+    "contact_email": "waseembali2k26@gmail.com",
+    "contact_phone": "+1-214-555-0186"
+  },
+  "palette": {
+    "bg": "#EDE8DF",
+    "surface": "#D8CFBF",
+    "ink": "#181818",
+    "accent": "#8B3A3A",
+    "detail": "#6B7058"
+  },
+  "fonts": {
+    "display": "Instrument Serif",
+    "body": "Inter",
+    "mono": null
+  },
+  "dark_mode": false,
+  "hero": {
+    "kind": "photo",
+    "h1": "Roofs as *architecture*, not emergencies.",
+    "sub": "GAF Master Elite. CertainTeed Master Select. 40,000+ Dallas roofs since 1974.",
+    "photo_url": "https://images.unsplash.com/photo-1605276373954-0c4a0dac5b12?w=1920&auto=format&fit=crop&q=80",
+    "photo_credit": "Photo by Avi Werde on Unsplash",
+    "overlay": "rgba(15,15,15,0.45)",
+    "focal_point": "center"
+  },
+  "hero_3d": null,
+  "copy": {
+    "primary_cta": "Schedule free inspection →",
+    "primary_cta_href": "#contact",
+    "secondary_cta": "Call (214) 555-0186",
+    "secondary_cta_href": "tel:+12145550186",
+    "sticky_mobile_bar": "Storm damage? Call (214) 555-0186"
+  },
+  "trust_strip": [
+    "GAF Master Elite — Top 2% Nationally",
+    "CertainTeed Master Select",
+    "Owens Corning Preferred",
+    "RCAT Member · BBB A+",
+    "$2M Liability · Workers' Comp"
+  ],
+  "service_area": {
+    "primary_city": "Dallas, TX",
+    "service_area_cities": [
+      "Highland Park, TX",
+      "University Park, TX",
+      "Plano, TX",
+      "Frisco, TX",
+      "McKinney, TX",
+      "Allen, TX",
+      "Richardson, TX",
+      "Garland, TX",
+      "Mesquite, TX",
+      "Irving, TX",
+      "Coppell, TX",
+      "Grapevine, TX",
+      "Southlake, TX",
+      "Colleyville, TX",
+      "Westlake, TX",
+      "Flower Mound, TX",
+      "Lewisville, TX",
+      "Carrollton, TX",
+      "Addison, TX",
+      "Farmers Branch, TX",
+      "Fort Worth, TX",
+      "Arlington, TX",
+      "Mansfield, TX",
+      "Burleson, TX",
+      "Keller, TX",
+      "Prosper, TX",
+      "Celina, TX",
+      "Rockwall, TX",
+      "Heath, TX",
+      "Sunnyvale, TX"
+    ]
+  },
+  "services": [
+    {
+      "slug": "architectural-shingle",
+      "title": "Architectural Shingle Replacement",
+      "blurb": "GAF Timberline HDZ and CertainTeed Landmark installs with full deck inspection, ice-and-water shield at every penetration, and synthetic underlayment. We tear off — never overlay. Algae-resistant warranty registered to your address before we leave the driveway."
+    },
+    {
+      "slug": "standing-seam-metal",
+      "title": "Standing-Seam Metal",
+      "blurb": "24-gauge Galvalume and Kynar-coated steel for modern transitional homes. Concealed-fastener panels, factory-formed eave detail, snow-guard inclusion in north-facing exposures. The roof outlives the homeowner — and looks better at year 25 than it did at year one."
+    },
+    {
+      "slug": "designer-slate",
+      "title": "Designer Slate + Synthetic Slate",
+      "blurb": "Authentic Vermont slate and DaVinci synthetic slate for Highland Park tudors and University Park colonials. We coordinate with HOA architectural committees, document substrate condition, and engineer for the load before any tile is ordered."
+    },
+    {
+      "slug": "hail-claim",
+      "title": "Hail-Claim Documentation + Adjuster Liaison",
+      "blurb": "We are not a public adjuster — we document the damage with the same forms your insurer's adjuster uses, attend the on-roof meeting, and translate. Most homeowners discover their previous roofer left $14,000 of legitimate damage uncoded. We don't."
+    },
+    {
+      "slug": "skylight-flashing",
+      "title": "Skylight + Flashing Restoration",
+      "blurb": "Velux solar venting skylights, dead-valley reframes, and step-flashing rebuilds where the original roofer relied on caulk. The single most-common leak source in North Texas homes is failed flashing — and the most-common repair is to replace the whole roof when only the flashing needs work."
+    },
+    {
+      "slug": "annual-wellness",
+      "title": "Annual Roof Wellness Inspection",
+      "blurb": "Once-a-year ground-and-attic inspection with photographic report. Catches small problems — a missing shingle, a backed-out nail, a chimney crown crack — before they become insurance claims. $295 flat. Credited toward any repair we perform within 12 months."
+    }
+  ],
+  "process": [
+    {
+      "n": 1,
+      "title": "On-roof inspection",
+      "blurb": "Drone footage, attic moisture check, photographic record of every penetration, valley, and field condition. Written report within 48 hours."
+    },
+    {
+      "n": 2,
+      "title": "Insurance coordination",
+      "blurb": "If a claim is warranted, we attend the adjuster meeting and translate. If a claim is not warranted, we say so."
+    },
+    {
+      "n": 3,
+      "title": "Material selection",
+      "blurb": "Sample boards delivered to your home, color visualization tools for HOA approval, manufacturer warranty registered before tear-off."
+    },
+    {
+      "n": 4,
+      "title": "Install + cleanup",
+      "blurb": "Full magnetic sweep of yard and driveway, dumpster removed within 24 hours of completion, photos of every finished detail emailed to your file."
+    }
+  ],
+  "case_study": {
+    "title": "Highland Park Tudor — Synthetic Slate + Copper Valley Restoration",
+    "photo_url": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=1920&auto=format&fit=crop&q=80",
+    "quote": "Three roofers told us the chimney leak meant a full replacement. The Bert team found a single failed step-flashing and rebuilt the dead valley for under five thousand. When we did replace the roof three years later, they were the only crew we called.",
+    "stats": [
+      {
+        "value": "$4,800",
+        "label": "Initial flashing repair"
+      },
+      {
+        "value": "50 yr",
+        "label": "Synthetic slate warranty"
+      },
+      {
+        "value": "Y6",
+        "label": "Customer relationship"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "quote": "Hailstorm came through Preston Hollow in May. Our previous roofer wanted to total the roof with our insurer for forty thousand dollars. Bert came out, documented the actual damage, and the legitimate claim was eighteen thousand for a partial replacement. Honest pays.",
+      "name": "Andrew W.",
+      "role": "Homeowner, Preston Hollow",
+      "city": "Dallas, TX"
+    },
+    {
+      "quote": "We have a 1924 University Park colonial and the HOA architectural committee is — selective. The Bert team brought sample boards, attended the HOA meeting on our behalf, and got the synthetic slate approved without modifications. Old roof off, new roof on, no drama.",
+      "name": "Caroline + James M.",
+      "role": "Homeowners, University Park",
+      "city": "University Park, TX"
+    },
+    {
+      "quote": "Twelve rental properties across the metroplex. Annual wellness inspections caught three pending claims early — including a flashing failure on a McKinney house that would have rotted the deck. Cheapest insurance I buy.",
+      "name": "Diego L.",
+      "role": "Real estate investor",
+      "city": "Plano, TX"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is my hail damage actually claim-worthy or cosmetic?",
+      "a": "Functional damage to the shingle mat — visible bruising, granule loss exposing asphalt, fractured fiberglass — is claim-worthy. Cosmetic granule shading typically is not. We document both and let you decide whether to file. Filing a borderline claim can raise your premium; sometimes the right call is to repair out-of-pocket."
+    },
+    {
+      "q": "Should I call my insurer or roofer first?",
+      "a": "Roofer first. We document what's actually there before the adjuster arrives. Adjusters are trained to undercount when they walk a roof solo — having a contractor on the roof with them changes the conversation and the payout, materially and legally."
+    },
+    {
+      "q": "What's the difference between Master Elite GAF and a regular contractor?",
+      "a": "Master Elite is the top 2% of GAF-certified contractors nationally. The credential requires verified longevity, warranty performance, and sustained customer-satisfaction scores. Master Elite is the only credential that unlocks the GAF Golden Pledge transferable lifetime warranty — material and workmanship together."
+    },
+    {
+      "q": "Asphalt versus metal versus synthetic slate — Dallas heat impact?",
+      "a": "Asphalt cooks fastest in North Texas heat — typical service life is 18 to 22 years on Architectural shingle. Metal radiates heat off, lasting 40 to 60 years. Synthetic slate and clay tile run 50+. The math favors metal or synthetic if you intend to stay 15+ years."
+    },
+    {
+      "q": "Do you handle the adjuster meeting on-site?",
+      "a": "Yes — and we strongly recommend it. We meet your adjuster on the roof, walk through the documentation, and resolve disagreements in real time. The single biggest predictor of a fair claim outcome is whether a contractor is present at the inspection."
+    },
+    {
+      "q": "Texas roofing license is voluntary — how do I verify legitimacy?",
+      "a": "Texas does not require a state roofing license, which is why credential verification matters more here than elsewhere. Look for: GAF Master Elite or CertainTeed Master Select status (verifiable on manufacturer sites), RCAT membership, BBB A+ accreditation, $2M+ general liability, workers' comp on every employee. Demand certificates of insurance directly."
+    },
+    {
+      "q": "What's the realistic timeline post-hailstorm in the May/June surge?",
+      "a": "First two weeks: documentation and adjuster scheduling. Weeks 3 to 6: claim approval and material ordering. Install: 1 to 3 days for most homes. The bottleneck is always the insurer, not the materials. Beware contractors who promise 'this week' install on a fresh storm — they're the ones who skip steps."
+    },
+    {
+      "q": "Manufacturer warranty versus workmanship warranty — what's covered?",
+      "a": "Manufacturer warranty covers the shingle itself (typical 25 to 50 years prorated). Workmanship warranty covers our install (we offer 10 years). The GAF Golden Pledge — only available through Master Elite contractors — bundles both into a single lifetime transferable warranty including material and labor."
+    }
+  ],
+  "lead_magnet": {
+    "title": "The North Texas Hail-Claim Decoder",
+    "subtitle": "Read your insurance scope of work before signing. 18 pages, line-by-line annotated.",
+    "cta": "Get the guide →"
+  },
+  "photos": {
+    "hero": "https://images.unsplash.com/photo-1605276373954-0c4a0dac5b12?w=1920&auto=format&fit=crop&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1543393716-375f47996a77?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1556912173-46c336c7fd55?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1605146768851-eda79da39897?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1542621334-a254cf47733d?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1480074568708-e7b720bb3f09?w=1280&auto=format&fit=crop&q=80"
+    ]
+  },
+  "competitors": [
+    "https://bertroofing.com",
+    "https://www.lonsmith.com",
+    "https://boldroofing.com",
+    "https://tarrantroofing.com",
+    "https://elevatedroofing.com"
+  ],
+  "anti_patterns": [
+    "Storm-chaser fear hero — HAIL DAMAGE? ACT FAST!",
+    "American-flag overlay patriotism kitsch",
+    "Before/after slider with low-res phone photos"
+  ],
+  "modules": {
+    "booking_calendar": true,
+    "service_area_map": true,
+    "photo_gallery": true,
+    "faq": true,
+    "lead_magnet": true
+  },
+  "contact": {
+    "form_endpoint": "https://api.web3forms.com/submit",
+    "calendly_url": "https://calendly.com/skynetlabs-demo/15min"
+  },
+  "seo": {
+    "title": "Roofing Dallas | GAF Master Elite + Hail-Claim Specialists | SkynetLabs",
+    "description": "Architecture-grade roofing for North Texas homes since 1974. GAF Master Elite, hail-claim documentation, designer slate + standing-seam metal.",
+    "keywords": [
+      "roofing dallas",
+      "gaf master elite dallas",
+      "hail damage roofing dallas",
+      "highland park roofing",
+      "metal roof dallas"
+    ],
+    "noindex": true
+  },
+  "demo_disclosure": {
+    "enabled": true,
+    "fiverr_cta_url": "https://www.fiverr.com/agencies/skynetjoellc?utm_source=demo&utm_campaign=roofing",
+    "contact_cta_url": "https://skynetjoe.com/contact?utm_source=demo&utm_campaign=roofing",
+    "portfolio_url": "https://skynetjoe.com/portfolio"
+  }
+}
